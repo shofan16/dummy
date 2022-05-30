@@ -1,31 +1,32 @@
 {
-  "posts": [
+  "LoanOverdraft": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "LOAN_NAME": "Car Loan",
+      "LOAN_NO": "0000001",
+      "CURRENT_TERM": 14,
+      "TOTAL_TERM": 35,
+      "EMP_NO": "DOXXXXXX",
+      "EMP_NAME": "DONI SALIMAN",
+      "COST_CENTER": "HRD",
+      "PRINCIPAL": 3000000,
+      "INTERESTPERCENT": 6,
+      "INSTALLMENT": 3015000,
+      "PAY_PERIOD": "SEMI_01",
+      "PAY_DATE": "2022-05-30T04:27:53.666Z"
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "LOAN_NAME": "House Loan",
+      "LOAN_NO": "0000002",
+      "CURRENT_TERM": 15,
+      "TOTAL_TERM": 40,
+      "EMP_NO": "DOYYYYYY",
+      "EMP_NAME": "RANO KURIS",
+      "COST_CENTER": "DIRECTOR",
+      "PRINCIPAL": 5000000,
+      "INTERESTPERCENT": 6,
+      "INSTALLMENT": 3025000,
+      "PAY_PERIOD": "SEMI_01",
+      "PAY_DATE": "2022-05-30T04:27:53.666Z"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
